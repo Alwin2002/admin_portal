@@ -8,6 +8,7 @@ function App() {
 <>
     
     <BasicExample/>
+    <h1>Hi</h1>
     <Sidebar/>
     </>
 
