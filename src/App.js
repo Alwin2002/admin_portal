@@ -8,6 +8,9 @@ function App() {
 <>
     
     <BasicExample/>
+    <h1>Hi</h1>
+    <h1>Hey</h1>
+    <h1>Bye</h1>
     <Sidebar/>
     </>
 
