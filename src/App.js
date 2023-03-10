@@ -9,6 +9,7 @@ function App() {
     
     <BasicExample/>
     <h1>Hi</h1>
+    <h1>Hey</h1>
     <Sidebar/>
     </>
 
